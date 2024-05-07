@@ -1,5 +1,2 @@
-# Lab 5 - Basic JS Mapping with Leaflet
+# Lab 8 - Interactive Charts
 ## Lawrence R. Black
-
-
-Embeded links into the upload for all products.
